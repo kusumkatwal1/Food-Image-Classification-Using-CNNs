@@ -54,8 +54,9 @@ The dataset contains 6 classes:
 - Data normalization
 - Image augmentation
 
+# File Structure
 
-
+imageclassification_project1.ipynb
 
 
 
