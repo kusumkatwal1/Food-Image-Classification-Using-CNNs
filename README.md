@@ -1,9 +1,8 @@
-# Food-Image-Classification-Using-CNNsA A 
+# Food-Image-Classification-Using-CNNs
 CNN-based food image classification system built with TensorFlow and Keras, achieving up to 72% accuracy, with optimized training using early stopping and detailed evaluation using classification metrics.
 
 ## Overview
 This deep learning project was developed as a final project to demonstrate image classification using CNNs.
-
 The dataset contains 6 classes:
 - Baked Potato
 - Burger
@@ -13,18 +12,16 @@ The dataset contains 6 classes:
 - Pizza
 
 ## Features
-
-- Image classification using CNN
-- Data preprocessing with ImageDataGenerator
-- Early stopping to prevent overfitting
-- Model evaluation with:
-  - Accuracy
-  - Loss curves
-  - Confusion matrix
-  - Classification report
+  - Image classification using CNN
+  - Data preprocessing with ImageDataGenerator
+  - Early stopping to prevent overfitting
+  - Model evaluation with:
+    - Accuracy
+    - Loss curves
+    - Confusion matrix
+    - Classification report
 
 ## Results
-
 ### Model 1
   - Training Accuracy: 75%
   - Validation Accuracy: 69%
@@ -43,20 +40,19 @@ The dataset contains 6 classes:
     - Pizza
 
 - Some confusion between:
-  - Burger vs Hot Dog
-  - Chicken vs Fries
+    - Burger vs Hot Dog
+    - Chicken vs Fries
 
 ## Techniques Used
-
-- CNN (Conv2D, MaxPooling, Dense)
-- Dropout
-- EarlyStopping
-- Data normalization
-- Image augmentation
+  - CNN (Conv2D, MaxPooling, Dense)
+  - Dropout
+  - EarlyStopping
+  - Data normalization
+  - Image augmentation
 
 # File Structure
-ReadMe.md - project description
-imageclassification_project1.ipynb
-imageclassification_project2.ipynb
+  ReadMe.md - project description
+  imageclassification_project1.ipynb
+  imageclassification_project2.ipynb
 
 © 2025 Kusum Katwal
