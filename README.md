@@ -1,4 +1,4 @@
-# Food-Image-Classification-Using-CNNsA 
+# Food-Image-Classification-Using-CNNsA A 
 CNN-based food image classification system built with TensorFlow and Keras, achieving up to 72% accuracy, with optimized training using early stopping and detailed evaluation using classification metrics.
 
 ## Overview
@@ -55,9 +55,8 @@ The dataset contains 6 classes:
 - Image augmentation
 
 # File Structure
-ReadMe.md
+ReadMe.md - project description
 imageclassification_project1.ipynb
-
-
+imageclassification_project2.ipynb
 
 © 2025 Kusum Katwal
