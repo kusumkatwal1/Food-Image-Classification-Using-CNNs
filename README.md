@@ -12,14 +12,14 @@ The dataset contains 6 classes:
 - Pizza
 
 ## Features
-  - Image classification using CNN
-  - Data preprocessing with ImageDataGenerator
-  - Early stopping to prevent overfitting
-  - Model evaluation with:
-    - Accuracy
-    - Loss curves
-    - Confusion matrix
-    - Classification report
+    - Image classification using CNN
+    - Data preprocessing with ImageDataGenerator
+    - Early stopping to prevent overfitting
+    - Model evaluation with:
+      - Accuracy
+      - Loss curves
+      - Confusion matrix
+      - Classification report
 
 ## Results
 ### Model 1
