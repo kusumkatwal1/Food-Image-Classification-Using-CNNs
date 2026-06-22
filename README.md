@@ -51,7 +51,7 @@ The dataset contains 6 classes:
   - Image augmentation
 
 # File Structure
-  * ReadMe.md - project description
+  * ReadMe.md - throughout guide for the overall project description
   * imageclassification_project1.ipynb - this file includes the details for project1
   * imageclassification_project2.ipynb - this file includes the details for project2
 
