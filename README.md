@@ -51,8 +51,8 @@ The dataset contains 6 classes:
   - Image augmentation
 
 # File Structure
-  ReadMe.md - project description
-  imageclassification_project1.ipynb
-  imageclassification_project2.ipynb
+  * ReadMe.md - project description
+  * imageclassification_project1.ipynb - this is for project1
+  * imageclassification_project2.ipynb
 
 © 2025 Kusum Katwal
