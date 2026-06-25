@@ -17,9 +17,9 @@ The dataset contains 6 classes:
     - Early stopping to prevent overfitting
     - Model evaluation with:
           * Accuracy
-          - Loss curves
-          - Confusion matrix
-          - Classification report
+          * Loss curves
+          * Confusion matrix
+          * Classification report
 
 ## Results
 ### Model 1
