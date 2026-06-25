@@ -16,7 +16,7 @@ The dataset contains 6 classes:
     - Data preprocessing with ImageDataGenerator
     - Early stopping to prevent overfitting
     - Model evaluation with:
-          - Accuracy
+          * Accuracy
           - Loss curves
           - Confusion matrix
           - Classification report
