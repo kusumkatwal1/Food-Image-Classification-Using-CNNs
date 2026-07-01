@@ -52,7 +52,7 @@ The dataset contains 6 classes:
 
 # File Structure
   * "**ReadMe.md**" : throughout guide for the overall project description
-  * "imageclassification_project1.ipynb" : this file includes the details for project1
-  * "imageclassification_project2.ipynb" :  this file includes the details for project2
+  * "**imageclassification_project1.ipynb**" : this file includes the details for project1
+  * "**imageclassification_project2.ipynb**" :  this file includes the details for project2
 
 © 2025 Kusum Katwal
